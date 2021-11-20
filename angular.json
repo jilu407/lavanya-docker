@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "lavanya"
+  "defaultProject": "lavanya",
+  "cli": {
+    "analytics": "d236efe4-ff32-46a2-aad4-b73e92dc3dc4"
+  }
 }
