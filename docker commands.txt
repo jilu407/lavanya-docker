@@ -1,0 +1,9 @@
+docker builder prune -af  -- remove cache pre build 
+
+docker build -t lavanya/main-app .
+
+docker ps -a
+
+
+
+docker run -p 4200:80  lavayna/main-app
